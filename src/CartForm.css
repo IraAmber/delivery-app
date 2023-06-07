@@ -1,0 +1,38 @@
+.cart-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+}
+
+.cart-form-row {
+  margin-bottom: 10px;
+}
+
+.cart-form__input {
+  width: 300px;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cart-form__submit {
+  width: 300px;
+  padding: 10px;
+  background-color: #4285f4;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cart-form__submit:hover {
+  background-color: #3367d6;
+}
+
+.cart-form__submit:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}

@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Montagu Slab
+- Font Author: Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)
+- Font Source: http://fonts.gstatic.com/s/montaguslab/v6/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbEnP9Fs7bOSO7.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
